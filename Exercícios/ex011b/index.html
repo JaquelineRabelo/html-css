@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imagens Flexíveis</title>
+</head>
+<body>
+    <h1>Imagens Flexíveis</h1>
+    <p>Veja abaixo que a imagem se adequa a <strong>vários tamanhos diferentes</strong>, tanto pequeno, médio e grande!</p>
+
+    <picture>
+        <source media="(max-width: 750px)" srcset="jaqueline/foto-p.png" type="image/png">
+        <source media="(max-width: 1050px)" srcset="jaqueline/foto-m.png" type="image/png">
+        <img src="jaqueline/foto-g.png" alt="Carro">
+        <source media="(min-width: )" srcset="" type="image/">
+    </picture>
+    
+</body>
+</html>

@@ -1,0 +1,88 @@
+@charset "UTF-8"
+
+body {
+    background-color: rgb(255, 219, 219);
+    color: black;
+    font-size: 16px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: inline;
+
+}
+header {
+    background-color: antiquewhite;
+    color: rgb(104, 68, 1);
+    text-align: center;
+    box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.315);
+}
+
+main {
+    background-color: burlywood;
+    color: white;
+    font-size: 14px;
+
+}
+
+
+.legumes {
+    background-color: rgba(134, 109, 158, 0.219);
+    max-width: 500px;
+    height: 200px;
+    font-size: 18px;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 5px 3px 7px 1px rgba(0, 0, 0, 0.329);
+    border-radius: 10px;
+    margin: auto;
+
+}
+
+.mercearia {
+    background-color: rgba(112, 54, 54, 0.171);
+    max-width: 500px;
+    height: 200px;
+    font-size: 18px;
+    justify-content: center;
+    box-shadow: 5px 3px 7px 1px rgba(0, 0, 0, 0.329);
+    border-radius: 10px 0px;
+    margin: auto;
+    margin-bottom: 10px;
+    
+}
+
+.limpeza {
+    background-color: rgba(255, 127, 80, 0.336);
+    max-width: 500px;
+    height: 200px;
+    font-size: 18px;
+    justify-content: auto;
+    box-shadow: 5px 3px 7px 1px rgba(0, 0, 0, 0.329);
+    border-radius: 10px;
+    margin: auto;
+}
+
+
+li:hover {
+    color: red;
+}
+
+h2 { color: rgb(82, 62, 25);
+}
+article {
+    color: black;
+    text-align: justify;
+}
+
+
+
+footer {
+
+    background-color: rgb(138, 90, 2);
+    text-align: center;
+    color: white;
+    margin: 1px;
+
+}
+footer > p { margin: 0px;} 
+
+
+
