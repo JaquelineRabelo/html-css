@@ -1,4 +1,4 @@
 # html-css
- projetos-html/css
+ projetos-css
 
- Estou apredenndo a criar sites e agora vou gerenciar meu respositótios!
+ Estou aprendendo a gerencias os meus repositórios!
