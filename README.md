@@ -1,3 +1,47 @@
+# My HTML and CSS Studies
+
+This repository contains my studies on HTML and CSS, the two essential technologies for building and styling front-end web pages.
+
+## About![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
+
+HTML (Hypertext Markup Language)is the standard markup language used to structure the content of web pages. It provides the basic elements for creating structures such as paragraphs, headings, lists and links.
+
+## About ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
+
+CSS (Cascading Style Sheets) is a style language that allows you to define the presentation and layout of web pages. With CSS, you can control colors, fonts, positioning, and many other visual aspects.
+
+## Content 💻
+
+In this repository you will find:
+
+- **Introduction to HTML**: An overview of the basic elements of HTML and how to structure the content of a page.
+- **Introduction to CSS**: Getting started with styling elements using CSS.
+- **Responsive Layouts**: How to create layouts that adapt to different devices and screen sizes.
+- **Selectors and Properties**: Deeper exploration of CSS selectors and style properties.
+- **Flexbox and Grid**: How to use Flexbox and CSS Grid to create advanced layouts.
+- **Advanced Styling**: Advanced styling techniques such as animations and transformations.
+- **Practical Project**: A project that combines HTML and CSS to create a stylized web page.
+
+
+## Contributions
+
+Contributions are welcome!
+
+## Additional Resources and Documentation
+
+In addition to this repository, there are many online resources that can help you further your knowledge of HTML and CSS. Some of them include:
+
+- Documentação HTML: [MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- Documentação CSS: [MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- Tutoriais e cursos: [freeCodeCamp](https://www.freecodecamp.org/), [Codecademy](https://www.codecademy.com/), [W3Schools](https://www.w3schools.com/)
+
+Let's explore the world of building and styling web pages with HTML and CSS together!
+
+ <a href="https://jaquelinerabelo.github.io/html-css/desafios/des010b/android.html" target="_blank">Executar o desafio 10 </a> 
+
+
+
+------------------------------------------------------------------------------------------------------------------
 # Meus Estudos de HTML e CSS
 
 Este repositório contém meus estudos sobre HTML e CSS, as duas tecnologias essenciais para a construção e estilização de páginas da web no front-end.
